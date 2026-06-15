@@ -70,10 +70,10 @@ Este projeto foi construído de forma colaborativa por:
     </tr>
     <tr>
       <td><b>Mauricio</b></td>
-      <td>@_a_definir</td>
+      <td>mauriciorafaeloliveira20@gmail.com</td>
       <td><a href="https://gitlab.com/maumal200501">@maumal200501</a></td>
-      <td><a href="#">@_a_definir</a></td>
-      <td><a href="#">@_a_definir</a></td>
+      <td><a href="https://github.com/maumas201">@maumas201</a></td>
+      <td><a href="https://www.linkedin.com/in/mauricio-rafael-1456a53b8">@mauricio-rafael-1456a53b8</a></td>
     </tr>
   </tbody>
 </table>
